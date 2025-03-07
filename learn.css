@@ -1,0 +1,273 @@
+.navbar {
+  background-color:whitesmoke; /* Dark background */
+  width: 100%;
+  height: 60px; /* Adjust height as needed */
+  display: flex;
+  justify-content: space-between;
+  border-radius: 8px; /* Rounded corners */
+  margin-top: -5px;
+}
+
+ul img{
+  height: 75px;
+  width: 80px;
+  margin-top: -20px;
+}
+ul{
+  list-style: none;
+  display: flex;
+  margin-left: 80px;
+  color: #006A4E;
+}
+ul a{
+  color: #006A4E;
+  margin-left: 35px;
+  text-decoration: none;
+  font-size: 18px;
+}
+.text-input {
+  width: 200px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  height: 25px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-left: none;
+  margin-top: 7px;
+}
+#log-in{
+  height: 45px;
+  width: 80px;
+margin-right: 110px;
+  display: flex;
+  color: white;
+  background-color: #006A4E;
+justify-content: center;
+align-items: center;  
+margin-top: 6px;
+border-top: none;
+border-bottom: none;
+border-left: none;
+border-right: none;
+border-radius: 5px;
+font-size: 15px;
+}
+#log-in:hover{
+  background-color: #17B169;
+}
+a  {
+  text-decoration: none;
+}
+#clickable-image {
+  transition: transform 0.5s ease;
+  width: 200px;
+  height: 150px;
+  margin-left: -90px;
+  margin-top: 80px;
+  position: relative;
+  cursor: pointer; 
+}
+#clickable-image1 {
+  transition: transform 0.5s ease;
+  width: 200px;
+  height: 150px;
+  display: flex;
+  margin-left: -90px;
+  margin-top: 10px;
+  position: relative;
+  cursor: pointer; 
+}
+#clickable-image2 {
+  transition: transform 0.5s ease;
+  width: 200px;
+  height: 150px;
+  margin-left: -80px;
+  margin-top: 15px;
+  position: relative;
+  cursor: pointer; 
+}
+#clickable-image:hover,
+#clickable-image1:hover,
+#clickable-image2:hover {
+  transform: translateX(100px);
+}
+
+.img4{
+  display: flex;
+  margin-left: 310px;
+  height:200px;
+  width: 300px;
+  margin-top: -485px;
+}
+#narvi{
+  margin-left: 370px;
+  font-size: 22px;
+}
+#cero{
+  margin-left: -560px;
+  font-size: 18px;
+  text-align: center;
+  color: gray;
+}
+#diez{
+margin-left: 316px;
+color: gray;
+}
+.apply{
+  margin-left: 335px;
+  background-color: #006A4E;
+  color: white;
+  height: 50px;
+  width: 251px;
+  font-size: 15px;
+  border-radius: 7px;
+}
+.apply:hover{
+  background-color: #17B169;
+}
+#r1{
+  display: flex;
+  margin-left: 715px;
+  margin-top: -420px;
+  font-size: 30px;
+}
+.box{
+  width: 700px;
+  height:200px;
+  background-color:whitesmoke;
+  display: flex;
+  color: white;
+  font-size: 18px;
+  margin-left: 715px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  border-radius: 5px;
+}
+#b1{
+  margin-left: 750px;
+  margin-top: -160px;
+  display: flex;
+  border-radius: 15px;
+  height: 30px;
+  text-align: center;
+  align-items: center;
+  color: #006A4E;
+ border-color: #006A4E;
+ background-color: white;
+ font-size: 16px;
+}
+#b2{
+  margin-left:750px ;
+  font-size: 22px;
+}
+#b2 strong{
+  font-size: 29px;
+  color: #006A4E;
+}
+#b3{
+  margin-left: 750px;
+  margin-top: -10px;
+  font-size: 18px;
+  color: gray;
+}
+#l0 {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin-left: 630px;
+  margin-right: 0px;
+
+}
+
+#l0 ul {
+  font-size: 20px;
+  margin-right: -10px; /* Consistent margin between items */
+  text-decoration: none;
+  color: black;
+
+}
+#l0 strong {
+  display: block;
+  margin-bottom: 10px; /* Space between strong text and description */
+}
+#l1{
+  margin-left: 50px;
+}
+#l2{
+  margin-left: 100px;
+}
+#l3{
+  margin-left: 100px;
+}
+
+#l0 ul p{
+  display: flex;
+  margin-top: 60px;
+  margin-left: -65px;
+}
+.content3{
+  margin-left:715px;
+}
+.content3 strong{
+  color:gray;
+  font-size: 20px;
+}
+.content3 p{
+  font-size: 17px;
+}
+.big{
+  margin-left: 715px;
+   
+}
+.big button{
+  border-radius: 50px;
+  border-top: none;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  background-color: whitesmoke;
+  height: 80px;
+  width: 715px;
+}
+.big li{
+font-size: 15px;
+  color: black;
+  margin-right: 50px;
+  margin-left: -30px;
+  text-align: center;
+  align-items: center;
+  display: flex;
+}
+.ultimo img{
+  width: 710px;
+  margin-top: 70px;
+}
+.end{
+  margin-left:-1550px;
+  text-align: center;
+  margin-top: -500px;
+
+}
+#e1{
+  color: #006A4E;
+  font-size: 28px;
+}
+.e2{
+  font-size: 22px;
+  font-weight: bold;
+}
+.e4{
+  font-size: 22px;
+  font-weight: bold;
+}
+
+
+
+
+
+
+

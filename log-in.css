@@ -1,0 +1,186 @@
+.navbar {
+  background-color:whitesmoke; /* Dark background */
+  width: 100%;
+  height: 60px; /* Adjust height as needed */
+  display: flex;
+  justify-content: space-between;
+  border-radius: 8px; /* Rounded corners */
+  margin-top: -5px;
+}
+ul img{
+  height: 75px;
+  width: 80px;
+  margin-top: -20px;
+}
+ul{
+  list-style: none;
+  display: flex;
+  margin-left: 80px;
+  color: #006A4E;
+}
+ul a{
+  color: #006A4E;
+  margin-left: 35px;
+  text-decoration: none;
+  font-size: 18px;
+}
+.text-input {
+  width: 200px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  height: 25px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-left: none;
+  margin-top: 7px;
+}
+
+
+
+#log-in{
+  height: 45px;
+  width: 80px;
+margin-right: 110px;
+  display: flex;
+  color: white;
+  background-color: #006A4E;
+justify-content: center;
+align-items: center;  
+margin-top: 6px;
+border-top: none;
+border-bottom: none;
+border-left: none;
+border-right: none;
+border-radius: 5px;
+font-size: 15px;
+}
+h2{
+  text-align: center;
+}
+#log-in:hover{
+  background-color: #17B169;
+}
+.login-content{
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  width: 350px;
+  margin-left:120px;
+  height: 650px;
+  margin-top: 40px;
+
+}
+input{
+  font-size: 18px;
+}
+.text1{
+  background-color: whitesmoke;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+  border-top: none;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+.text2{
+  background-color: whitesmoke;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+  border-top: none;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+
+.select{
+  display: flex;
+  height: 200px;
+}
+#s3{
+  height: 30px;
+}
+.text4{
+  margin-top: 40px;
+}
+label.checkbox{
+font-size: 15px;
+font-family: 'Courier New', Courier, monospace;
+}
+#log{
+  background-color: #006A4E;
+  color: white;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+  border-top: none;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  margin-top: 15px;
+  font-size: 15px;
+}
+#log:hover{
+  background-color: #17B169;
+}
+.forgot{
+  margin-top: 10px;
+}
+.forgot a{
+  color: #006A4E;
+  text-decoration: none;
+  font-size:17px;
+ display: flex;
+}
+.create a{
+  color: #006A4E;
+  text-decoration: none;
+  font-size:17px;
+  
+}
+.confirm a{
+  color: #006A4E;
+  text-decoration: none;
+  font-size:17px;
+}
+.visit a{
+  color: #006A4E;
+  text-decoration: none;
+  font-size:17px;
+}
+.slogan p{
+  color:#006A4E;
+  margin-left: 585px;
+  font-size: 30px;
+  font-family:garamond;
+  display: flex;
+  margin-top: 35px;
+  }
+  .log-in button{
+    height: 40px;
+    width: 90px;
+    background-color: #006A4E;
+    border-radius: 5px;
+    margin-top: 27px;
+    color: white;
+    margin-left: 510px;
+    border-top: none;
+    border-bottom: none;
+    border-left:none;
+    border-right: none;
+  }
+  .log-in button:hover{
+    background-color: #17B169;
+  }
+  
+  .visit img{
+    height: 700px;
+    width: 370px;
+    margin-left: 880px;
+    margin-top: -600px;
+    display: flex;
+  }
